@@ -160,14 +160,3 @@ Drizzle ORM with PostgreSQL via Supabase:
 2. Navigate to **Settings** → **Database**
 3. Copy the **Connection string** (use **Session pooling** for serverless)
 4. Replace `[YOUR-PASSWORD]` with your database password
-
-## License
-
-MIT
-
-## Other Commands
-
-```bash
-pnpm db:seed
-pnpm db:verify
-```
